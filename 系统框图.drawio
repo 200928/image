@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T00:11:32.429Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.3.0" etag="vnTQ3BPf_m1bmyQq--A1" type="github"><diagram id="IZfgekErxJ8Bl-5lO6em">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T00:15:05.990Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="2U8kvK2v98CpWN469n_X" version="17.3.0" type="github">
+  <diagram id="IZfgekErxJ8Bl-5lO6em" name="第 1 页">
+    <mxGraphModel dx="1246" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;校园跳骚市场交易系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="50" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-2" value="商品模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-3" value="人事管理 模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="30" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
