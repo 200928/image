@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T00:24:35.976Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="uXiL3Obvfi21PRdrWJ0A" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T00:31:33.494Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VrDkWZOBU9pf06hEUU9u" version="17.3.0" type="github">
   <diagram id="IZfgekErxJ8Bl-5lO6em" name="第 1 页">
     <mxGraphModel dx="1246" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;校园跳骚市场交易系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="80" width="185" height="40" as="geometry" />
+          <mxGeometry x="492" y="62" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-2" value="商品模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="160" width="30" height="140" as="geometry" />
@@ -13,20 +13,35 @@
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-3" value="人员管理 模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-5" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="300" y="360" width="30" height="140" as="geometry" />
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-5" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-6" value="审核员管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="30" height="140" as="geometry" />
+          <mxGeometry x="270" y="360" width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-7" value="商品上传" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="30" height="140" as="geometry" />
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-7" value="商品上传模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="462" y="360" width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-8" value="商品审核" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="501" y="360" width="30" height="140" as="geometry" />
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-8" value="商品审核模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-9" value="商品上架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="558" y="360" width="30" height="140" as="geometry" />
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-9" value="商品上架模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="677" y="360" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-11" value="商品购买" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="560" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-12" value="商品信息修改" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="765" y="560" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-13" value="客服管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-14" value="填写必填信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-16" value="填写选填信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="450" y="560" width="30" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
