@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T14:41:00.806Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="UwykOuj6TATY0NiNUqrV" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T15:04:26.003Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="zixNbDWTxOxnuGV3xJ_Q" version="17.4.5" type="github">
   <diagram id="IZfgekErxJ8Bl-5lO6em" name="第 1 页">
-    <mxGraphModel dx="1246" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,10 +64,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-6" value="审核员模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="215" y="360" width="30" height="140" as="geometry" />
+          <mxGeometry x="212" y="360" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-8" value="商品审核" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="200" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="197" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" parent="1" source="pzcqqS4UqjUTK4ZPxBAx-9" target="pzcqqS4UqjUTK4ZPxBAx-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry x="680" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-12" value="商品修改" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="330" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="315" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" parent="1" source="pzcqqS4UqjUTK4ZPxBAx-13" target="pzcqqS4UqjUTK4ZPxBAx-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,37 +94,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-13" value="客服模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="535" y="360" width="30" height="140" as="geometry" />
+          <mxGeometry x="540" y="360" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-14" value="用户与平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="520" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="525" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-16" value="用户与店家" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="550" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="555" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-17" value="违规管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="230" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="227" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-18" value="商品上传" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="300" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="285" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-19" value="商品下架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="360" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="345" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-20" value="商品退货" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="740" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-24" value="商品收藏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="450" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="435" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-25" value="商品查询" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="390" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="375" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-26" value="违规举报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="420" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="405" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-32" value="商品成交" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="710" y="560" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5srs3ZVo2iCE7U0_LQaD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5srs3ZVo2iCE7U0_LQaD-1" target="pzcqqS4UqjUTK4ZPxBAx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5srs3ZVo2iCE7U0_LQaD-1" value="联系卖家" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="465" y="560" width="30" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
