@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T15:04:26.003Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="zixNbDWTxOxnuGV3xJ_Q" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T15:27:31.012Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="aEscPObWsDOyfeoUXFGD" version="17.4.5" type="github">
   <diagram id="IZfgekErxJ8Bl-5lO6em" name="第 1 页">
-    <mxGraphModel dx="1466" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,10 +96,10 @@
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-13" value="客服模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="540" y="360" width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-14" value="用户与平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-14" value="平台反馈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="525" y="560" width="30" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-16" value="用户与店家" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="pzcqqS4UqjUTK4ZPxBAx-16" value="退货协商" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="555" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-17" value="违规管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
