@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T05:54:04.898Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="386miVzJMAIhu42hjJnn" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T05:56:20.206Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="DFZx1HatAT6M4ezzkJqx" version="17.4.5" type="github">
   <diagram id="BXax0zp_msNkyBi-CzEr" name="第 1 页">
     <mxGraphModel dx="1285" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,8 +34,17 @@
         <mxCell id="wcvxLL6nXwDZEHQmD13v-35" value="查看举报列表" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
           <mxGeometry x="75.13" y="197" width="129.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wcvxLL6nXwDZEHQmD13v-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wcvxLL6nXwDZEHQmD13v-14" source="wcvxLL6nXwDZEHQmD13v-37" target="wcvxLL6nXwDZEHQmD13v-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-37" value="对每条举报信息人工审核" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
           <mxGeometry x="65.57" y="280" width="148.87" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wcvxLL6nXwDZEHQmD13v-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
+          <mxGeometry x="114.5" y="368" width="51" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="wcvxLL6nXwDZEHQmD13v-41" value="是否存在&lt;br&gt;违规行为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
+          <mxGeometry x="146.88" y="336" width="58" height="32" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-20" value="数据库" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1024.5" y="128" width="280" height="641" as="geometry" />
