@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T08:44:45.380Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="F8YlnZ0LXpaOQyVan0x6" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T08:45:35.773Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="i-aV3dl7as8BlU63To_8" version="17.4.5" type="github">
   <diagram id="kvRgZ8uejfZzRq80rBRY" name="第 1 页">
     <mxGraphModel dx="714" dy="384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -77,6 +77,32 @@
         <mxCell id="OrTOHWYSCd0f0m3LYNKq-24" value="展示订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OrTOHWYSCd0f0m3LYNKq-23">
           <mxGeometry x="0.1192" y="-3" relative="1" as="geometry">
             <mxPoint x="16" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrTOHWYSCd0f0m3LYNKq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.297;entryY=0.766;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OrTOHWYSCd0f0m3LYNKq-18" target="OrTOHWYSCd0f0m3LYNKq-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="482" y="494" />
+              <mxPoint x="482" y="494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrTOHWYSCd0f0m3LYNKq-27" value="用户决策" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OrTOHWYSCd0f0m3LYNKq-26">
+          <mxGeometry x="0.0794" relative="1" as="geometry">
+            <mxPoint x="11" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrTOHWYSCd0f0m3LYNKq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.041;entryY=0.912;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OrTOHWYSCd0f0m3LYNKq-8" target="OrTOHWYSCd0f0m3LYNKq-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="528" />
+              <mxPoint x="306" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrTOHWYSCd0f0m3LYNKq-29" value="确认购买" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OrTOHWYSCd0f0m3LYNKq-28">
+          <mxGeometry x="-0.0724" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
