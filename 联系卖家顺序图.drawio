@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:48:16.168Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="khRvafd3HvTrFJ4-pRfZ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T06:48:28.782Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="T4XrOHP-nRxSXMnXJPUH" version="17.4.5" type="github">
   <diagram id="tk6rihhnIVDETbvAgUTu" name="第 1 页">
     <mxGraphModel dx="863" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GFKTN1XEtl8pyvi_96BX-1" value="&lt;font style=&quot;font-size: 11px ; line-height: 1.2&quot;&gt;:会话界面&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="344" y="207" width="100" height="384" as="geometry" />
+          <mxGeometry x="344" y="207" width="100" height="337" as="geometry" />
         </mxCell>
         <mxCell id="GFKTN1XEtl8pyvi_96BX-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GFKTN1XEtl8pyvi_96BX-1">
           <mxGeometry x="45" y="100" width="10" height="203" as="geometry" />
         </mxCell>
         <mxCell id="GFKTN1XEtl8pyvi_96BX-3" value=":聊天后台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="504" y="207" width="100" height="383" as="geometry" />
+          <mxGeometry x="504" y="207" width="100" height="338" as="geometry" />
         </mxCell>
         <mxCell id="GFKTN1XEtl8pyvi_96BX-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GFKTN1XEtl8pyvi_96BX-3">
           <mxGeometry x="45" y="129" width="10" height="141" as="geometry" />
         </mxCell>
         <mxCell id="GFKTN1XEtl8pyvi_96BX-7" value=":用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="177" y="207" width="100" height="387" as="geometry" />
+          <mxGeometry x="177" y="207" width="100" height="338" as="geometry" />
         </mxCell>
         <mxCell id="GFKTN1XEtl8pyvi_96BX-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GFKTN1XEtl8pyvi_96BX-7">
           <mxGeometry x="45" y="100" width="10" height="205" as="geometry" />
