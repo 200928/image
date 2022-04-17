@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T05:07:38.731Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="hdUjSJ6IfWwrilykhQ-D" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T05:08:20.115Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="kNIawwvtFAxIwR8i8gRF" version="17.4.5" type="github">
   <diagram id="v3pNUCT2vnQm8bQTQVUx" name="第 1 页">
     <mxGraphModel dx="1276" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,16 +47,16 @@
           <mxGeometry x="87.25" y="376" width="105.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vuKDmV6EnGHZobsBWFM1-15" value="系统" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="724.5" y="128" width="280" height="538" as="geometry" />
+          <mxGeometry x="724.5" y="128" width="288" height="538" as="geometry" />
         </mxCell>
         <mxCell id="vuKDmV6EnGHZobsBWFM1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vuKDmV6EnGHZobsBWFM1-15" source="vuKDmV6EnGHZobsBWFM1-17" target="vuKDmV6EnGHZobsBWFM1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vuKDmV6EnGHZobsBWFM1-17" value="审核商品修改信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-15">
-          <mxGeometry x="87.25" y="206" width="105.5" height="30" as="geometry" />
+        <mxCell id="vuKDmV6EnGHZobsBWFM1-17" value="到数据库中查询是否满足下架条件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-15">
+          <mxGeometry x="43.63" y="207.5" width="200.75" height="27" as="geometry" />
         </mxCell>
         <mxCell id="vuKDmV6EnGHZobsBWFM1-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-15">
-          <mxGeometry x="119.75" y="285" width="40.5" height="39" as="geometry" />
+          <mxGeometry x="123.76" y="285" width="40.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="vuKDmV6EnGHZobsBWFM1-19" value="合理信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-15">
           <mxGeometry x="169.5" y="313" width="58" height="18" as="geometry" />
