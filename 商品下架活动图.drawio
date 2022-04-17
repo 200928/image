@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T05:13:32.548Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="A19DKRDaBECISLVUH1Aw" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T05:15:14.020Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="YUTu8448923ttzX-AbDr" version="17.4.5" type="github">
   <diagram id="v3pNUCT2vnQm8bQTQVUx" name="第 1 页">
     <mxGraphModel dx="1276" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="vuKDmV6EnGHZobsBWFM1-10" value="点击确认下架按钮" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-7">
           <mxGeometry x="87.25" y="206" width="105.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vuKDmV6EnGHZobsBWFM1-11" value="下架失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-7">
+        <mxCell id="vuKDmV6EnGHZobsBWFM1-11" value="显示下架失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-7">
           <mxGeometry x="87.25" y="289.5" width="105.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vuKDmV6EnGHZobsBWFM1-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-7">
@@ -37,8 +37,8 @@
         <mxCell id="vuKDmV6EnGHZobsBWFM1-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vuKDmV6EnGHZobsBWFM1-7" source="vuKDmV6EnGHZobsBWFM1-14" target="vuKDmV6EnGHZobsBWFM1-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vuKDmV6EnGHZobsBWFM1-14" value="修改商品信息成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-7">
-          <mxGeometry x="87.25" y="376" width="105.5" height="30" as="geometry" />
+        <mxCell id="vuKDmV6EnGHZobsBWFM1-14" value="显示下架成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="vuKDmV6EnGHZobsBWFM1-7">
+          <mxGeometry x="87.25" y="370.5" width="105.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vuKDmV6EnGHZobsBWFM1-15" value="系统" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="724.5" y="128" width="288" height="538" as="geometry" />
@@ -86,6 +86,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vuKDmV6EnGHZobsBWFM1-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vuKDmV6EnGHZobsBWFM1-18" target="vuKDmV6EnGHZobsBWFM1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vuKDmV6EnGHZobsBWFM1-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vuKDmV6EnGHZobsBWFM1-36" target="vuKDmV6EnGHZobsBWFM1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
