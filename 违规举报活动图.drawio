@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:11:56.039Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="eo-5JUDDLdmOusMQWAxA" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T06:13:52.396Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="TaMU6LZcKdUH2751doGA" version="17.4.5" type="github">
   <diagram id="BXax0zp_msNkyBi-CzEr" name="第 1 页">
     <mxGraphModel dx="1285" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wcvxLL6nXwDZEHQmD13v-1" value="用户（卖家/买家）" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="164.5" y="128" width="280" height="641" as="geometry" />
+          <mxGeometry x="164.5" y="128" width="280" height="793" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wcvxLL6nXwDZEHQmD13v-1" source="wcvxLL6nXwDZEHQmD13v-3" target="wcvxLL6nXwDZEHQmD13v-4">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="75.13" y="121" width="129.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-5" value="系统" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="444.5" y="128" width="300" height="641" as="geometry" />
+          <mxGeometry x="444.5" y="128" width="300" height="793" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-9" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-5">
           <mxGeometry x="64.75" y="580" width="30" height="30" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="104.28999999999999" y="376.5" width="91.43" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-14" value="审核员" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="744.5" y="128" width="280" height="641" as="geometry" />
+          <mxGeometry x="744.5" y="128" width="280" height="793" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wcvxLL6nXwDZEHQmD13v-14" source="wcvxLL6nXwDZEHQmD13v-35" target="wcvxLL6nXwDZEHQmD13v-37">
           <mxGeometry relative="1" as="geometry" />
@@ -43,14 +43,23 @@
         <mxCell id="wcvxLL6nXwDZEHQmD13v-37" value="对每条举报信息人工审核" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
           <mxGeometry x="65.57" y="280" width="148.87" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="wcvxLL6nXwDZEHQmD13v-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wcvxLL6nXwDZEHQmD13v-14" source="wcvxLL6nXwDZEHQmD13v-39" target="wcvxLL6nXwDZEHQmD13v-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
           <mxGeometry x="114.5" y="368" width="51" height="47" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-41" value="是否存在&lt;br&gt;违规行为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
           <mxGeometry x="146.88" y="336" width="58" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="wcvxLL6nXwDZEHQmD13v-45" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
+          <mxGeometry x="114.5" y="466" width="51" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="wcvxLL6nXwDZEHQmD13v-47" value="该用户之前&lt;br&gt;是否被封禁过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-14">
+          <mxGeometry x="146.88" y="437" width="82" height="32" as="geometry" />
+        </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-20" value="数据库" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="1024.5" y="128" width="280" height="641" as="geometry" />
+          <mxGeometry x="1024.5" y="128" width="280" height="793" as="geometry" />
         </mxCell>
         <mxCell id="wcvxLL6nXwDZEHQmD13v-16" value="将举报信息发给数据库保存" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="wcvxLL6nXwDZEHQmD13v-20">
           <mxGeometry x="53.25" y="121" width="173.5" height="30" as="geometry" />
