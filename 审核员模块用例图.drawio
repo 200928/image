@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:58:33.729Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.4.5" etag="9b67ldVbaAIeVxl9_I7y" type="github"><diagram id="htVLMxiZK2pxbcJrP-ke">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T07:02:10.054Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_hEkj03GCOgfHno5P7Jm" version="17.4.5" type="github">
+  <diagram id="htVLMxiZK2pxbcJrP-ke" name="第 1 页">
+    <mxGraphModel dx="1036" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QB015OGW_TFJt5i2f2zT-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="QB015OGW_TFJt5i2f2zT-9" target="QB015OGW_TFJt5i2f2zT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB015OGW_TFJt5i2f2zT-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="QB015OGW_TFJt5i2f2zT-9" target="QB015OGW_TFJt5i2f2zT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QB015OGW_TFJt5i2f2zT-9" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QB015OGW_TFJt5i2f2zT-12" value="商品审核" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QB015OGW_TFJt5i2f2zT-14" value="违规管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
