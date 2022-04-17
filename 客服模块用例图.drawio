@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T07:58:15.732Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.4.5" etag="MY13nNL5xwLf5UOtAzrP" type="github"><diagram id="dt1ZyQyBYtfI09rklhxm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T08:07:58.412Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="H7QtivIo-yIUQxhW5Xoc" version="17.4.5" type="github">
+  <diagram id="dt1ZyQyBYtfI09rklhxm" name="第 1 页">
+    <mxGraphModel dx="1036" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wMH5A3hO3QKet3aU06fW-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="wMH5A3hO3QKet3aU06fW-9" target="wMH5A3hO3QKet3aU06fW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMH5A3hO3QKet3aU06fW-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="wMH5A3hO3QKet3aU06fW-9" target="wMH5A3hO3QKet3aU06fW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMH5A3hO3QKet3aU06fW-9" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMH5A3hO3QKet3aU06fW-12" value="平台反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wMH5A3hO3QKet3aU06fW-14" value="退货协商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
