@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T07:22:18.458Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="9AwNacE0jdDmJHVSn2tk" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T07:22:30.479Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="4j5LztUB6TzkaKzWaWPL" version="17.4.5" type="github">
   <diagram id="on1jaZB2G12ZiQlU1ATC" name="第 1 页">
     <mxGraphModel dx="1219" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,10 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yDM_2lHMn7Q9lCKYdCRe-11" value="卖家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="191.5" y="119" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yDM_2lHMn7Q9lCKYdCRe-16" value="买家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="119" width="30" height="60" as="geometry" />
+          <mxGeometry x="212" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDM_2lHMn7Q9lCKYdCRe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yDM_2lHMn7Q9lCKYdCRe-6" target="yDM_2lHMn7Q9lCKYdCRe-4">
           <mxGeometry relative="1" as="geometry">
