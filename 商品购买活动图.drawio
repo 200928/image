@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T08:52:33.529Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6t2CsTraxD25Ic35b9W5" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T08:53:10.960Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="YBW41S3P7k9KshGCq6pZ" version="17.4.5" type="github">
   <diagram id="vAjckrUN6_HBf8K1QkDr" name="第 1 页">
     <mxGraphModel dx="1480" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="CT2irNAyOlAWH6yWk4DE-3" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-1">
           <mxGeometry x="125" y="45" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CT2irNAyOlAWH6yWk4DE-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-1">
-          <mxGeometry x="59.43999999999999" y="665" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CT2irNAyOlAWH6yWk4DE-5" value="&amp;nbsp;点击商品信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-1">
           <mxGeometry x="93.06" y="126" width="93.87" height="30" as="geometry" />
@@ -58,8 +55,22 @@
         <mxCell id="CT2irNAyOlAWH6yWk4DE-55" value="是否购买" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-30">
           <mxGeometry x="157.50000000000003" y="408" width="58" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CT2irNAyOlAWH6yWk4DE-30" source="CT2irNAyOlAWH6yWk4DE-56" target="CT2irNAyOlAWH6yWk4DE-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CT2irNAyOlAWH6yWk4DE-56" value="购买失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-30">
           <mxGeometry x="39.5" y="538" width="80.93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="CT2irNAyOlAWH6yWk4DE-30" source="CT2irNAyOlAWH6yWk4DE-57" target="CT2irNAyOlAWH6yWk4DE-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="224" y="663" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CT2irNAyOlAWH6yWk4DE-57" value="购买成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-30">
           <mxGeometry x="183.5" y="538" width="80.93" height="30" as="geometry" />
@@ -69,6 +80,9 @@
         </mxCell>
         <mxCell id="CT2irNAyOlAWH6yWk4DE-61" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-30">
           <mxGeometry x="94.5" y="446" width="22" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-30">
+          <mxGeometry x="134.9999999999999" y="648" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CT2irNAyOlAWH6yWk4DE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CT2irNAyOlAWH6yWk4DE-5" target="CT2irNAyOlAWH6yWk4DE-44">
           <mxGeometry relative="1" as="geometry" />
