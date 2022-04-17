@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T05:46:18.456Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ujKuV_LBvHTpC0koIGqV" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T05:46:50.890Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="V-6ofP5bG_QG2RuO4Byl" version="17.4.5" type="github">
   <diagram id="tGM0PoBINYn4neO8G_zT" name="第 1 页">
     <mxGraphModel dx="1036" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,20 +42,6 @@
         <mxCell id="GBrsPW4wWktVcQGoqvxC-11" value="卖家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="191.5" y="119" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GBrsPW4wWktVcQGoqvxC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBrsPW4wWktVcQGoqvxC-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="687" y="381" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="590" y="381" />
-              <mxPoint x="590" y="381" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GBrsPW4wWktVcQGoqvxC-15" value="返回给审核员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GBrsPW4wWktVcQGoqvxC-14">
-          <mxGeometry x="-0.2542" y="-1" relative="1" as="geometry">
-            <mxPoint x="17" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GBrsPW4wWktVcQGoqvxC-16" value="买家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="232.5" y="119" width="30" height="60" as="geometry" />
         </mxCell>
@@ -83,6 +69,19 @@
         <mxCell id="GBrsPW4wWktVcQGoqvxC-22" value="将举报信息暂存自数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GBrsPW4wWktVcQGoqvxC-21">
           <mxGeometry x="-0.176" y="-1" relative="1" as="geometry">
             <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBrsPW4wWktVcQGoqvxC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.18;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GBrsPW4wWktVcQGoqvxC-6" target="GBrsPW4wWktVcQGoqvxC-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="653" y="382" />
+              <mxPoint x="653" y="382" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBrsPW4wWktVcQGoqvxC-24" value="返回给审核员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GBrsPW4wWktVcQGoqvxC-23">
+          <mxGeometry x="0.1795" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
