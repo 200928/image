@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T05:28:47.012Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="PK4zVM6j5Iz12Wq_uwOC" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T05:29:37.102Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="JjdGjxeKjKtqho5kD8Zf" version="17.4.5" type="github">
   <diagram id="IrN0-EmiDBDlybKkzEsl" name="第 1 页">
     <mxGraphModel dx="1219" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="e5c8ljGAw5stQ7XH-v7u-3" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-1">
           <mxGeometry x="125" y="45" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e5c8ljGAw5stQ7XH-v7u-4" value="点击商品信息修改按钮" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-1">
+        <mxCell id="e5c8ljGAw5stQ7XH-v7u-4" value="点击商品查询按钮" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-1">
           <mxGeometry x="75.13" y="121" width="129.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e5c8ljGAw5stQ7XH-v7u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="e5c8ljGAw5stQ7XH-v7u-1" source="e5c8ljGAw5stQ7XH-v7u-6" target="e5c8ljGAw5stQ7XH-v7u-4">
@@ -22,16 +22,16 @@
         <mxCell id="e5c8ljGAw5stQ7XH-v7u-6" value="重新填写需修改信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-1">
           <mxGeometry x="77.13" y="289.5" width="125.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e5c8ljGAw5stQ7XH-v7u-7" value="商品信息修改界面" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+        <mxCell id="e5c8ljGAw5stQ7XH-v7u-7" value="系统主页面" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="444.5" y="128" width="280" height="538" as="geometry" />
         </mxCell>
         <mxCell id="e5c8ljGAw5stQ7XH-v7u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="e5c8ljGAw5stQ7XH-v7u-7" source="e5c8ljGAw5stQ7XH-v7u-9" target="e5c8ljGAw5stQ7XH-v7u-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e5c8ljGAw5stQ7XH-v7u-9" value="填写商品需修改的信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-7">
+        <mxCell id="e5c8ljGAw5stQ7XH-v7u-9" value="填写待查询商品信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-7">
           <mxGeometry x="75.5" y="121" width="129.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e5c8ljGAw5stQ7XH-v7u-10" value="点击确认修改按钮" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-7">
+        <mxCell id="e5c8ljGAw5stQ7XH-v7u-10" value="点击确认按钮" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-7">
           <mxGeometry x="87.25" y="206" width="105.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e5c8ljGAw5stQ7XH-v7u-11" value="审核不通过" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-7">
@@ -46,7 +46,7 @@
         <mxCell id="e5c8ljGAw5stQ7XH-v7u-14" value="修改商品信息成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="e5c8ljGAw5stQ7XH-v7u-7">
           <mxGeometry x="87.25" y="376" width="105.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e5c8ljGAw5stQ7XH-v7u-15" value="审核员" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+        <mxCell id="e5c8ljGAw5stQ7XH-v7u-15" value="系统" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="724.5" y="128" width="280" height="538" as="geometry" />
         </mxCell>
         <mxCell id="e5c8ljGAw5stQ7XH-v7u-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e5c8ljGAw5stQ7XH-v7u-15" source="e5c8ljGAw5stQ7XH-v7u-17" target="e5c8ljGAw5stQ7XH-v7u-18">
