@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T08:39:44.294Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.4.5" etag="ONZXIGkJyGwnwspvbVs4" type="github"><diagram id="vAjckrUN6_HBf8K1QkDr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T08:47:55.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="teNJzUfIsSWjJEtbpc2k" version="17.4.5" type="github">
+  <diagram id="vAjckrUN6_HBf8K1QkDr" name="第 1 页">
+    <mxGraphModel dx="1480" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-1" value="用户" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="127" width="280" height="727" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CT2irNAyOlAWH6yWk4DE-1" source="CT2irNAyOlAWH6yWk4DE-3" target="CT2irNAyOlAWH6yWk4DE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-3" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-1">
+          <mxGeometry x="125" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-1">
+          <mxGeometry x="59.43999999999999" y="665" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-5" value="&amp;nbsp;点击商品信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-1">
+          <mxGeometry x="93.06" y="126" width="93.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-14" value="商品界面" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="444.5" y="127" width="300" height="726" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CT2irNAyOlAWH6yWk4DE-14" source="CT2irNAyOlAWH6yWk4DE-44" target="CT2irNAyOlAWH6yWk4DE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-44" value="展示商品信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-14">
+          <mxGeometry x="103.06999999999994" y="126" width="93.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-46" value="点击购买" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-14">
+          <mxGeometry x="103.05999999999995" y="239" width="93.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-30" value="购买界面" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="744.5" y="127" width="300" height="726" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-48" value="点击购买" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="CT2irNAyOlAWH6yWk4DE-30">
+          <mxGeometry x="90.5" y="242" width="93.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CT2irNAyOlAWH6yWk4DE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CT2irNAyOlAWH6yWk4DE-5" target="CT2irNAyOlAWH6yWk4DE-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
