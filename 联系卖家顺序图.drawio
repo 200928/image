@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:47:46.360Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="01eEauEhLLcS61WKYGgI" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T06:48:16.168Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="khRvafd3HvTrFJ4-pRfZ" version="17.4.5" type="github">
   <diagram id="tk6rihhnIVDETbvAgUTu" name="第 1 页">
     <mxGraphModel dx="863" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -60,6 +60,19 @@
         <mxCell id="GFKTN1XEtl8pyvi_96BX-20" value="返回卖家消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFKTN1XEtl8pyvi_96BX-19">
           <mxGeometry x="0.194" relative="1" as="geometry">
             <mxPoint x="16" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFKTN1XEtl8pyvi_96BX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.967;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GFKTN1XEtl8pyvi_96BX-2" target="GFKTN1XEtl8pyvi_96BX-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="443" />
+              <mxPoint x="354" y="443" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFKTN1XEtl8pyvi_96BX-22" value="与买家沟通" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFKTN1XEtl8pyvi_96BX-21">
+          <mxGeometry x="0.1907" y="2" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
