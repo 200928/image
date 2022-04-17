@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:42:53.779Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.4.5" etag="fs6Fxqlw5K1RPLytppbX" type="github"><diagram id="QYaWiJ7WAvlcBTiZFHVI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T10:15:01.533Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="gFtRlwNduukcW61c9Uya" version="17.4.5" type="github">
+  <diagram id="QYaWiJ7WAvlcBTiZFHVI" name="第 1 页">
+    <mxGraphModel dx="714" dy="384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-1" value=":买家/卖家" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="177" y="207" width="100" height="294" as="geometry" />
+        </mxCell>
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BKxXeG59r4M8xxgn5zIa-1">
+          <mxGeometry x="45" y="100" width="10" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BKxXeG59r4M8xxgn5zIa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="322" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="444" y="322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-4" value="根据交易时间地点提货" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BKxXeG59r4M8xxgn5zIa-3">
+          <mxGeometry x="-0.1295" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-5" value="&lt;font style=&quot;font-size: 11px ; line-height: 1.2&quot;&gt;:线下交易&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="401" y="207" width="100" height="294" as="geometry" />
+        </mxCell>
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BKxXeG59r4M8xxgn5zIa-5">
+          <mxGeometry x="45" y="100" width="10" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.233;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BKxXeG59r4M8xxgn5zIa-6" target="BKxXeG59r4M8xxgn5zIa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKxXeG59r4M8xxgn5zIa-8" value="交易完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BKxXeG59r4M8xxgn5zIa-7">
+          <mxGeometry x="0.1289" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
