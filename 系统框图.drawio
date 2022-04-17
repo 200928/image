@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T01:36:50.589Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="yVhrz5w1t27guecmf4Hb" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T02:41:49.463Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="PjUm7U_lNR0acA15qser" version="17.4.5" type="github">
   <diagram id="IZfgekErxJ8Bl-5lO6em" name="第 1 页">
-    <mxGraphModel dx="1246" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,10 +64,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-6" value="审核员模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="212" y="360" width="30" height="140" as="geometry" />
+          <mxGeometry x="179" y="360" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-8" value="商品审核" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="197" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="164" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" parent="1" source="pzcqqS4UqjUTK4ZPxBAx-9" target="pzcqqS4UqjUTK4ZPxBAx-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="555" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-17" value="违规管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="227" y="560" width="30" height="140" as="geometry" />
+          <mxGeometry x="194" y="560" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pzcqqS4UqjUTK4ZPxBAx-18" value="商品上传" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="285" y="560" width="30" height="140" as="geometry" />
@@ -131,6 +131,12 @@
         </mxCell>
         <mxCell id="5srs3ZVo2iCE7U0_LQaD-1" value="联系卖家" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="465" y="560" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5srs3ZVo2iCE7U0_LQaD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5srs3ZVo2iCE7U0_LQaD-5" target="pzcqqS4UqjUTK4ZPxBAx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5srs3ZVo2iCE7U0_LQaD-5" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="255" y="560" width="30" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
