@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T07:36:13.935Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="egi7vsKuWsMqwmcGcwre" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T07:36:40.360Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Mg_-mKhhtbsfYxWqS8lP" version="17.4.5" type="github">
   <diagram id="ZPQ7wPmF_WBNnlHXaOd-" name="第 1 页">
-    <mxGraphModel dx="1884" dy="1013" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X0fd4qHxaJaM6CsB48i5-1" value="用户（卖家）" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="164.5" y="128" width="280" height="641" as="geometry" />
+          <mxGeometry x="164.5" y="127" width="280" height="641" as="geometry" />
         </mxCell>
         <mxCell id="X0fd4qHxaJaM6CsB48i5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="X0fd4qHxaJaM6CsB48i5-1" source="X0fd4qHxaJaM6CsB48i5-3" target="X0fd4qHxaJaM6CsB48i5-4">
           <mxGeometry relative="1" as="geometry" />
@@ -45,10 +45,10 @@
         <mxCell id="X0fd4qHxaJaM6CsB48i5-5" value="发布页面" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="444.5" y="128" width="300" height="641" as="geometry" />
         </mxCell>
-        <mxCell id="X0fd4qHxaJaM6CsB48i5-43" value="发布失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="X0fd4qHxaJaM6CsB48i5-5">
+        <mxCell id="X0fd4qHxaJaM6CsB48i5-43" value="显示发布失败" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="X0fd4qHxaJaM6CsB48i5-5">
           <mxGeometry x="103.25" y="348.75" width="93.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X0fd4qHxaJaM6CsB48i5-51" value="发布成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="X0fd4qHxaJaM6CsB48i5-5">
+        <mxCell id="X0fd4qHxaJaM6CsB48i5-51" value="显示发布成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="X0fd4qHxaJaM6CsB48i5-5">
           <mxGeometry x="103.25" y="450" width="93.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0fd4qHxaJaM6CsB48i5-14" value="审核员" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
