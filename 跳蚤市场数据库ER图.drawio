@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T00:31:51.418Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="XFf0f09vpQE5jN-dncwv" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-04T00:34:34.999Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="KESoqJvK9HRCZiTDNkrT" version="17.5.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="635" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="127" y="453" width="65" height="36" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--1" value="record" style="html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="521.5" y="439" width="65" height="36" as="geometry" />
+          <mxGeometry x="508" y="449" width="65" height="36" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--2" value="goodsid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="25" y="395" width="66" height="28" as="geometry" />
@@ -77,10 +77,25 @@
           <mxGeometry x="20" y="447" width="66" height="28" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--10" value="transtime" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="120.5" y="653" width="91.5" height="32" as="geometry" />
+          <mxGeometry x="202" y="641" width="91.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--11" value="transsite" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="207.75" y="702" width="78.25" height="32" as="geometry" />
+          <mxGeometry x="247" y="711" width="78.25" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XdJG98j6NMw2zqZAvnP--12" value="buyerid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="22.75" y="695" width="78.25" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XdJG98j6NMw2zqZAvnP--13" value="sellerid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="78" y="638" width="78.25" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XdJG98j6NMw2zqZAvnP--14" value="goodsid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="515" y="380" width="91.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XdJG98j6NMw2zqZAvnP--15" value="userid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="430" y="388" width="62" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XdJG98j6NMw2zqZAvnP--16" value="recordtime" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="599" y="425" width="91.5" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
