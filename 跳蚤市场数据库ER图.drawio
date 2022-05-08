@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T05:21:47.728Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="tQY5GJpdUDrDgJHZhtd_" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T07:12:17.374Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ODE7C94NmGJIuAXWO9Vb" version="17.5.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1276" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -29,10 +29,10 @@
           <mxGeometry x="337" y="166" width="54" height="24" as="geometry" />
         </mxCell>
         <mxCell id="g1o5wDydBx8oVk8ByclE-18" value="regtime" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="101" y="225" width="72" height="24" as="geometry" />
+          <mxGeometry x="95" y="266" width="72" height="24" as="geometry" />
         </mxCell>
         <mxCell id="g1o5wDydBx8oVk8ByclE-19" value="onlinestatus" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="105" y="275" width="92" height="24" as="geometry" />
+          <mxGeometry x="144" y="299" width="92" height="24" as="geometry" />
         </mxCell>
         <mxCell id="g1o5wDydBx8oVk8ByclE-20" value="userstatus" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="314" y="290" width="69" height="24" as="geometry" />
@@ -107,7 +107,10 @@
           <mxGeometry x="21" y="479" width="66" height="28" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--21" value="roleid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="218" y="312" width="69" height="24" as="geometry" />
+          <mxGeometry x="245" y="314" width="69" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="SYEsHTh8tqa5NaPANKuM-1" value="password" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="81" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
