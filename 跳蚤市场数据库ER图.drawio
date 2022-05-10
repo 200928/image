@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T08:24:56.035Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="8jiiwkOwbd2m3qDZSo3r" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T08:37:30.636Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="dllnBBaGX6dLRvfrVing" version="18.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1063" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="119" y="378" width="66" height="28" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--3" value="price" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="197" y="389" width="66" height="28" as="geometry" />
+          <mxGeometry x="191" y="383" width="66" height="28" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--4" value="describe&lt;br&gt;商品描述" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="291" y="452" width="66" height="28" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry x="293.5" y="485" width="78" height="31" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--6" value="goods_status&lt;br&gt;商品是否卖出" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="229" y="563" width="92" height="31" as="geometry" />
+          <mxGeometry x="112" y="553" width="92" height="31" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--7" value="release_time&lt;br&gt;商品发布时间" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="127" y="560" width="92" height="31" as="geometry" />
+          <mxGeometry x="314" y="528" width="92" height="31" as="geometry" />
         </mxCell>
         <mxCell id="XdJG98j6NMw2zqZAvnP--8" value="transaction&lt;br&gt;交易" style="html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="134" y="731" width="65" height="36" as="geometry" />
@@ -137,13 +137,16 @@
           <mxGeometry x="458" y="393" width="66" height="28" as="geometry" />
         </mxCell>
         <mxCell id="7Ip3TRDvnbnLxYBBL_82-6" value="newland&lt;br&gt;商品新旧程度" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="291" y="527" width="78" height="31" as="geometry" />
+          <mxGeometry x="196" y="568" width="78" height="31" as="geometry" />
         </mxCell>
         <mxCell id="7Ip3TRDvnbnLxYBBL_82-8" value="img1&lt;br&gt;商品图片" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="46" y="476" width="66" height="28" as="geometry" />
         </mxCell>
         <mxCell id="7Ip3TRDvnbnLxYBBL_82-9" value="img3&lt;br&gt;商品图片" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="53" y="393" width="66" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ip3TRDvnbnLxYBBL_82-10" value="release_status&lt;br&gt;发布状态" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="289" y="575" width="78" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
