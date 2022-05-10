@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T08:40:52.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ZFlt9EwkptMrby7tFOrD" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T08:44:21.370Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="B9T0UfODkAzu2tpj2GiS" version="18.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1063" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -34,13 +34,13 @@
         <mxCell id="g1o5wDydBx8oVk8ByclE-20" value="user_status&lt;br&gt;是否封号" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="689.5" y="99" width="69" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="g1o5wDydBx8oVk8ByclE-21" value="userid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="631.5" y="239" width="54" height="24" as="geometry" />
+        <mxCell id="g1o5wDydBx8oVk8ByclE-21" value="user_id" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
+          <mxGeometry x="600" y="250" width="54" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="g1o5wDydBx8oVk8ByclE-22" value="goodsid" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="699.5" y="239" width="54" height="24" as="geometry" />
+        <mxCell id="g1o5wDydBx8oVk8ByclE-22" value="goods_id" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
+          <mxGeometry x="674" y="250" width="54" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="g1o5wDydBx8oVk8ByclE-23" value="collecttime" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
+        <mxCell id="g1o5wDydBx8oVk8ByclE-23" value="collect_time" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="730.5" y="287" width="86" height="24" as="geometry" />
         </mxCell>
         <mxCell id="g1o5wDydBx8oVk8ByclE-24" value="goods&lt;br&gt;商品" style="html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
