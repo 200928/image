@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T11:48:15.809Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="t3X_2JWnA0mfXeOHNMFe" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T17:07:25.765Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="MEhDyzU6sckZPPjqYmz2" version="18.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1063" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -152,7 +152,7 @@
           <mxGeometry x="263" y="378" width="87" height="28" as="geometry" />
         </mxCell>
         <mxCell id="7Ip3TRDvnbnLxYBBL_82-12" value="传给后端商品类别，从数据库中得到该商品类型的ID&lt;br&gt;从而得到goods表的 goods_type 的值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="408.5" y="374" width="286" height="32" as="geometry" />
+          <mxGeometry x="508" y="389" width="286" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
