@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T01:14:34.558Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="mfwhecfTzoGp9PCDWH7i" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T01:14:51.729Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="udh6_cD5ajjx1YiF2q7d" version="18.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1244" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -149,7 +149,7 @@
           <mxGeometry x="222" y="569" width="78" height="31" as="geometry" />
         </mxCell>
         <mxCell id="7Ip3TRDvnbnLxYBBL_82-11" value="address&lt;br&gt;商品提货地址" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="332" y="439" width="87" height="28" as="geometry" />
+          <mxGeometry x="355.25" y="446" width="87" height="28" as="geometry" />
         </mxCell>
         <mxCell id="7Ip3TRDvnbnLxYBBL_82-12" value="传给后端商品类别，从数据库中得到该商品类型的ID&lt;br&gt;从而得到goods表的 goods_type 的值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="508" y="389" width="286" height="32" as="geometry" />
