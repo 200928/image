@@ -43,11 +43,11 @@
             <mxPoint x="542.25" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o3OCi0eKrF6IOnA6uNm3-17" value="InnerWidth：914px" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="185" y="568" width="231" height="30" as="geometry" />
+        <mxCell id="o3OCi0eKrF6IOnA6uNm3-17" value="InnerWidth：914px&lt;br&gt;包括垂直滚动条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="185" y="568" width="231" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="o3OCi0eKrF6IOnA6uNm3-20" value="InnerHeight：1195px" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="451" y="598" width="182" height="63" as="geometry" />
+        <mxCell id="o3OCi0eKrF6IOnA6uNm3-20" value="InnerHeight：1195px&lt;br&gt;不包括标签栏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="419" y="658" width="270" height="77" as="geometry" />
         </mxCell>
         <mxCell id="o3OCi0eKrF6IOnA6uNm3-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=10;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
